@@ -1,0 +1,27 @@
+* body {
+    font-family: 'Times New Roman';
+}
+
+.sans-serif {
+    font-family: sans-serif;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.big {
+    font-size: 40px;
+}
+
+.small {
+    font-size: 10px;
+}
